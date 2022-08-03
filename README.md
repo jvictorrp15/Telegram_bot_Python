@@ -22,4 +22,4 @@ python ./main.py
 
 ## Author Name
 
-[Alexander Monterrosa](https://github.com/Alex108-lab)
+[João Victor](https://github.com/jvictorrp15)
